@@ -161,7 +161,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.4"
           },
-          "title": "DRVICMANMINISTRES",
+          "title": "Conferencias, Campañas y Seminarios<br>Evangelisticas",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">CONOCE NUESTRA MISION&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">EVANGELIO</a>",
           "_tags": [
