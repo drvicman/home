@@ -183,8 +183,8 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "color": "#faaf40",
-              "font-size": "24px"
+              "color": "#fac51c",
+              "font-size": "16px"
             }
           },
           "_params": {
