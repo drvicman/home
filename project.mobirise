@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -185,8 +185,8 @@
             }
           },
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -206,7 +206,7 @@
           ],
           "text": "SHARE THIS PAGE!",
           "_name": "social-buttons3",
-          "_anchor": "social-buttons3-f"
+          "_anchor": "social-buttons3-g"
         },
         {
           "_params": {
