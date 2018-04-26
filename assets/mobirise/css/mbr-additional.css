@@ -492,6 +492,14 @@ h6,
   font-family: 'Oswald', sans-serif;
   font-size: 60px;
 }
+#social-buttons2-d .mbr-section-title,
+#social-buttons2-d .btn-social {
+  color: #232323;
+}
+#social-buttons2-d .mbr-section-title {
+  color: #faaf40;
+  font-size: 24px;
+}
 #contacts1-8 STRONG {
   color: #faaf40;
 }
