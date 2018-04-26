@@ -150,7 +150,7 @@
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
@@ -163,7 +163,7 @@
           },
           "title": "DRVICMANMINISTRES",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">CONOCE NUESTRA MISION&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">EL EVANGELIO</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">CONOCE NUESTRA MISION&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">EVANGELIO</a>",
           "_tags": [
             "Tema"
           ],
@@ -172,7 +172,8 @@
           "_styles": {
             ".mbr-section-title": {
               "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "60px"
             }
           }
         },
