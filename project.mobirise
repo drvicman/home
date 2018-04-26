@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 15,
+    "uniqCompNum": 16,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -182,14 +182,11 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
             }
           },
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -209,7 +206,7 @@
           ],
           "text": "SHARE THIS PAGE!",
           "_name": "social-buttons3",
-          "_anchor": "social-buttons3-e"
+          "_anchor": "social-buttons3-f"
         },
         {
           "_params": {
