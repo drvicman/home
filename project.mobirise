@@ -232,7 +232,12 @@
             "Tema"
           ],
           "_name": "header4",
-          "_anchor": "header4-2b"
+          "_anchor": "header4-2b",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          }
         },
         {
           "_params": {
