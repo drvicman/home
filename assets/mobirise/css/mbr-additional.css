@@ -441,11 +441,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-s .link {
-  font-size: 0.7rem;
+  font-size: 0.6rem;
 }
 #ext_menu-s .dropdown-item,
 #ext_menu-s .nav-dropdown-sm .link {
-  font-size: 0.758rem;
+  font-size: 0.650rem;
 }
 #ext_menu-s .link:hover,
 #ext_menu-s .dropdown-item:hover,
