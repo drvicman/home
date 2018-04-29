@@ -441,11 +441,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-s .link {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 #ext_menu-s .dropdown-item,
 #ext_menu-s .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.758rem;
 }
 #ext_menu-s .link:hover,
 #ext_menu-s .dropdown-item:hover,
@@ -891,5 +891,84 @@ h6,
 }
 #social-buttons3-1u .mbr-section-title,
 #social-buttons3-1u .btn-social {
+  color: #fff;
+}
+
+#ext_menu-26 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-26 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-26 .navbar-toggler {
+  color: #faaf40;
+}
+#ext_menu-26 .close-icon::before,
+#ext_menu-26 .close-icon::after {
+  background-color: #faaf40;
+}
+#ext_menu-26 .link,
+#ext_menu-26 .dropdown-item {
+  color: #faaf40;
+  font-family: 'Open Sans', sans-serif;
+}
+#ext_menu-26 .link {
+  font-size: 0.7rem;
+}
+#ext_menu-26 .dropdown-item,
+#ext_menu-26 .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#ext_menu-26 .link:hover,
+#ext_menu-26 .dropdown-item:hover,
+#ext_menu-26 .link:focus,
+#ext_menu-26 .dropdown-item:focus {
+  color: #faaf40;
+}
+#ext_menu-26 .link[aria-expanded="true"],
+#ext_menu-26 .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-26 .nav-dropdown-sm .link:focus,
+#ext_menu-26 .nav-dropdown-sm .link:hover,
+#ext_menu-26 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-26 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-26 .navbar,
+#ext_menu-26 .nav-dropdown-sm,
+#ext_menu-26 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-26 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-26 .bg-color.transparent .link {
+  color: #faaf40;
+  transition: none;
+}
+#ext_menu-26 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-26 .bg-color.transparent.opened .link:hover,
+#ext_menu-26 .bg-color.transparent.opened .link:focus {
+  color: #faaf40;
+}
+#ext_menu-26 .link[aria-expanded="true"],
+#ext_menu-26 .dropdown-item[aria-expanded="true"] {
+  color: #faaf40!important;
+}
+#ext_menu-26 .btn {
+  font-size: 10px;
+}
+#ext_menu-26 A {
+  font-size: 14px;
+}
+#contacts1-27 STRONG {
+  color: #faaf40;
+}
+#contacts1-27 P {
+  color: #ffffff;
+}
+#social-buttons3-28 .mbr-section-title,
+#social-buttons3-28 .btn-social {
   color: #fff;
 }
