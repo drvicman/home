@@ -441,11 +441,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-s .link {
-  font-size: 0.6rem;
+  font-size: 0.75rem;
 }
 #ext_menu-s .dropdown-item,
 #ext_menu-s .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 0.812rem;
 }
 #ext_menu-s .link:hover,
 #ext_menu-s .dropdown-item:hover,
@@ -504,7 +504,7 @@ h6,
 #header3-h .mbr-section-title {
   font-size: 22px;
 }
-#header4-2b .mbr-section-title {
+#header1-2c .mbr-section-title {
   font-size: 48px;
 }
 #social-buttons2-1d .mbr-section-title,
