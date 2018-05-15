@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DRVICMANMINISTRIES",
-    "currentPage": "page6.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -947,10 +947,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1024,7 +1024,7 @@
           "subtitle": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna. (Juan 3:16)",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTENOS</a>",
           "form": {
-            "action": "quinteros.hj@gmail.com",
+            "action": "info@drvicmanministries.com",
             "alerts": {
               "success": "Gracias por Escribirme Te Respondere lo mas Pronto Posible, Muchas Bendiciones de parte de Nuestro Señor Jesucristo"
             },
