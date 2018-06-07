@@ -525,6 +525,9 @@ h6,
 #social-buttons3-g .btn-social {
   color: #fff;
 }
+#social-buttons3-g .mbr-section-title {
+  font-size: 32px;
+}
 
 
 
@@ -547,11 +550,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-t .link {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
 }
 #ext_menu-t .dropdown-item,
 #ext_menu-t .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.812rem;
 }
 #ext_menu-t .link:hover,
 #ext_menu-t .dropdown-item:hover,
@@ -633,6 +636,9 @@ h6,
 #social-buttons3-w .btn-social {
   color: #fff;
 }
+#social-buttons3-w .mbr-section-title {
+  font-size: 32px;
+}
 
 #ext_menu-12 .hide-buttons .nav-btn {
   display: none !important;
@@ -653,11 +659,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-12 .link {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
 }
 #ext_menu-12 .dropdown-item,
 #ext_menu-12 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.812rem;
 }
 #ext_menu-12 .link:hover,
 #ext_menu-12 .dropdown-item:hover,
@@ -714,6 +720,9 @@ h6,
 #social-buttons3-16 .mbr-section-title,
 #social-buttons3-16 .btn-social {
   color: #fff;
+}
+#social-buttons3-16 .mbr-section-title {
+  font-size: 32px;
 }
 
 #ext_menu-18 .hide-buttons .nav-btn {
@@ -811,6 +820,9 @@ h6,
 #social-buttons3-1b .btn-social {
   color: #fff;
 }
+#social-buttons3-1b .mbr-section-title {
+  font-size: 32px;
+}
 
 #ext_menu-1p .hide-buttons .nav-btn {
   display: none !important;
@@ -831,11 +843,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-1p .link {
-  font-size: 0.7rem;
+  font-size: 0.75rem;
 }
 #ext_menu-1p .dropdown-item,
 #ext_menu-1p .nav-dropdown-sm .link {
-  font-size: 0.758rem;
+  font-size: 0.812rem;
 }
 #ext_menu-1p .link:hover,
 #ext_menu-1p .dropdown-item:hover,
@@ -896,6 +908,9 @@ h6,
 #social-buttons3-1u .btn-social {
   color: #fff;
 }
+#social-buttons3-1u .mbr-section-title {
+  font-size: 32px;
+}
 
 #ext_menu-26 .hide-buttons .nav-btn {
   display: none !important;
@@ -916,11 +931,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-26 .link {
-  font-size: 0.7rem;
+  font-size: 0.75rem;
 }
 #ext_menu-26 .dropdown-item,
 #ext_menu-26 .nav-dropdown-sm .link {
-  font-size: 0.758rem;
+  font-size: 0.812rem;
 }
 #ext_menu-26 .link:hover,
 #ext_menu-26 .dropdown-item:hover,
@@ -974,6 +989,9 @@ h6,
 #social-buttons3-28 .mbr-section-title,
 #social-buttons3-28 .btn-social {
   color: #fff;
+}
+#social-buttons3-28 .mbr-section-title {
+  font-size: 32px;
 }
 
 #ext_menu-2d .hide-buttons .nav-btn {
@@ -1053,4 +1071,7 @@ h6,
 #social-buttons3-2g .mbr-section-title,
 #social-buttons3-2g .btn-social {
   color: #fff;
+}
+#social-buttons3-2g .mbr-section-title {
+  font-size: 32px;
 }

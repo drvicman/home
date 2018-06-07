@@ -27,10 +27,11 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
     "uniqCompNum": 90,
-    "versionPublish": "4.7.2",
+    "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -331,6 +332,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
             }
           },
           "_params": {
@@ -408,10 +412,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -617,6 +621,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
             }
           },
           "_params": {
@@ -694,10 +701,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -870,6 +877,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
             }
           },
           "_params": {
@@ -1160,6 +1170,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
             }
           },
           "_params": {
@@ -1237,10 +1250,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1451,6 +1464,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
             }
           },
           "_params": {
@@ -1528,10 +1544,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1678,6 +1694,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
             }
           },
           "_params": {
@@ -1982,6 +2001,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
             }
           },
           "_params": {
